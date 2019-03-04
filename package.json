@@ -1,0 +1,5 @@
+{
+	"name": "wepay-promises",
+	"version": "0.0.9",
+	"description": "WePay NodeJS SDK using Promises.",
+}
